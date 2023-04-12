@@ -1,0 +1,15 @@
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.csproj.AssemblyReference.cache
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.AssemblyInfoInputs.cache
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.AssemblyInfo.cs
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\bin\Debug\net6.0\Task 13 Aprel.exe
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\bin\Debug\net6.0\Task 13 Aprel.deps.json
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\bin\Debug\net6.0\Task 13 Aprel.runtimeconfig.json
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\bin\Debug\net6.0\Task 13 Aprel.dll
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\bin\Debug\net6.0\Task 13 Aprel.pdb
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.dll
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\refint\Task 13 Aprel.dll
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.pdb
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\Task 13 Aprel.genruntimeconfig.cache
+C:\Users\Alber\Desktop\pass\Task 13 Aprel\Task 13 Aprel\obj\Debug\net6.0\ref\Task 13 Aprel.dll
